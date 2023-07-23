@@ -1,0 +1,8 @@
+python
+sentense transformers
+pandas
+sentense transformers utils
+sklearn.preprocessing
+numpy
+seaborn
+matplotlib.pyplot
